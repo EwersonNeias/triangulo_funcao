@@ -9,4 +9,4 @@
 Introdução à Programação para Games 🎮
 
 # Liguagem:
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+![C#-239120](https://github.com/EwersonNeias/triangulo_funcao/assets/128439222/3844ce0c-d0b9-499e-8f1a-bf5eae34c33a)
