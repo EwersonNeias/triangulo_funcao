@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\triangulo_funcao\bin\Debug\net6.0\triangulo_funcao.exe
+C:\Users\aluno\source\repos\triangulo_funcao\bin\Debug\net6.0\triangulo_funcao.deps.json
+C:\Users\aluno\source\repos\triangulo_funcao\bin\Debug\net6.0\triangulo_funcao.runtimeconfig.json
+C:\Users\aluno\source\repos\triangulo_funcao\bin\Debug\net6.0\triangulo_funcao.dll
+C:\Users\aluno\source\repos\triangulo_funcao\bin\Debug\net6.0\ref\triangulo_funcao.dll
+C:\Users\aluno\source\repos\triangulo_funcao\bin\Debug\net6.0\triangulo_funcao.pdb
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.AssemblyInfo.cs
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.dll
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\ref\triangulo_funcao.dll
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.pdb
+C:\Users\aluno\source\repos\triangulo_funcao\obj\Debug\net6.0\triangulo_funcao.genruntimeconfig.cache

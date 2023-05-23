@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "triangulo_funcao/1.0.0": {
+        "runtime": {
+          "triangulo_funcao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "triangulo_funcao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
