@@ -9,4 +9,5 @@
 Introdução à Programação para Games 🎮
 
 # Liguagem:
-![C#-239120](https://github.com/EwersonNeias/triangulo_funcao/assets/128439222/3844ce0c-d0b9-499e-8f1a-bf5eae34c33a)
+
+![icons8-c-48](https://github.com/EwersonNeias/triangulo_funcao/assets/128439222/ab2ff5ce-d300-4548-b87f-eb2a20a7e3d4)
